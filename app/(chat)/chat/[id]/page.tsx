@@ -8,7 +8,7 @@ import { AI } from '@/lib/chat/actions'
 import { Session } from '@/lib/types'
 
 export const runtime = 'edge'
-export const preferredRegion = 'home'
+export const preferredRegion = 'fra1'
 
 export interface ChatPageProps {
   params: {
